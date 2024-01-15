@@ -125,6 +125,7 @@ Visit the [website](https://vigneshvaranasi.github.io/Patterns/) to view the pat
          *
     ```
 10. [Code](Triangle%20Patterns/10-Pattern.cpp)
+
     ```bash
       * * * * *
        * * * *
@@ -137,7 +138,9 @@ Visit the [website](https://vigneshvaranasi.github.io/Patterns/) to view the pat
        * * * *
       * * * * *
     ```
+
 11. [Code](Triangle%20Patterns/11-Pattern.cpp)
+
     ```bash
          *
         * *
@@ -149,7 +152,9 @@ Visit the [website](https://vigneshvaranasi.github.io/Patterns/) to view the pat
         * *
          *
     ```
+  
 12. [Code](Triangle%20Patterns/12-Pattern.cpp)
+
     ```bash
              * 
            *   *
@@ -157,7 +162,9 @@ Visit the [website](https://vigneshvaranasi.github.io/Patterns/) to view the pat
        *           *
      * * * * * * * * *
     ```
+
 13. [Code](Triangle%20Patterns/13-Pattern.cpp)
+
     ```bash
      * * * * * * * * *
        *           *
@@ -165,7 +172,9 @@ Visit the [website](https://vigneshvaranasi.github.io/Patterns/) to view the pat
            *   * 
              * 
     ```
+
 14. [Code](Triangle%20Patterns/14-Pattern.cpp)
+
     ```bash
     *                 *
     * *             * *
@@ -345,6 +354,7 @@ Visit the [website](https://vigneshvaranasi.github.io/Patterns/) to view the pat
         *                 *
     ```
 3. [Code](Special%20Patterns/03-Pattern.cpp)
+
     ```bash
          *
         * *
@@ -356,6 +366,7 @@ Visit the [website](https://vigneshvaranasi.github.io/Patterns/) to view the pat
         * *
          *
     ```
+
 4. [Code](Special%20Patterns/04-Pattern.cpp)
     ```bash
            *      *
@@ -376,6 +387,7 @@ Visit the [website](https://vigneshvaranasi.github.io/Patterns/) to view the pat
        *                 *
     ```
 6. [Code](Special%20Patterns/06-Pattern.cpp)
+
     ```bash
               * * * * *
             *       * 
@@ -383,6 +395,7 @@ Visit the [website](https://vigneshvaranasi.github.io/Patterns/) to view the pat
         *       * 
       * * * * * 
     ```
+
 7. [Code](Special%20Patterns/07-Pattern.cpp)
     ```bash
         * * * * *
@@ -392,6 +405,7 @@ Visit the [website](https://vigneshvaranasi.github.io/Patterns/) to view the pat
         * * * * *
     ```
 8. [Code](Special%20Patterns/08-Pattern.cpp)
+
     ```bash
       * * * * * * * * * *
       * * * *     * * * *
@@ -404,7 +418,6 @@ Visit the [website](https://vigneshvaranasi.github.io/Patterns/) to view the pat
       * * * *     * * * *
       * * * * * * * * * *
     ```
-  
 
 ## How to Use 🛠️
 
