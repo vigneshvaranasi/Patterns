@@ -13,23 +13,23 @@ Visit the [website](https://vigneshvaranasi.github.io/Patterns/) to view the pat
 5. [Special Patterns - 8](#special-patterns)
 
 ## Square Patterns
-```bash
-1.  
-        * * * * *
-        * * * * *
-        * * * * *
-        * * * * *
-        * * * * *
-```
-```bash
-2.  
-        * * * * *
-        *       *
-        *       *
-        *       *
-        * * * * *
-```
 
+1. [Code](Square%20Patterns/01-Pattern.cpp)
+   ```bash
+    * * * * *
+    * * * * *
+    * * * * *
+    * * * * *
+    * * * * *
+    ```
+2. [Code](Square%20Patterns/02-Pattern.cpp)
+   ```bash
+    * * * * *
+    *       *
+    *       *
+    *       *
+    * * * * *
+    ```
 ## Triangle Patterns
 
 ```bash
