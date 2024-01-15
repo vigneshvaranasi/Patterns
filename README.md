@@ -127,16 +127,16 @@ Visit the [website](https://vigneshvaranasi.github.io/Patterns/) to view the pat
 10. [Code](Triangle%20Patterns/10-Pattern.cpp)
 
     ```bash
-      *   *   *   *   *
-        *   *   *   * 
-          *   *   *
-            *   * 
-              *  
-              *  
-            *   * 
-          *   *   *
-        *   *   *   * 
-      *   *   *   *   *
+     * * * * * 
+      * * * * 
+       * * * 
+        * * 
+         * 
+         * 
+        * *
+       * * * 
+      * * * *
+     * * * * *
     ```
 
 11. [Code](Triangle%20Patterns/11-Pattern.cpp)
