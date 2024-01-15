@@ -15,6 +15,7 @@ Visit the [website](https://vigneshvaranasi.github.io/Patterns/) to view the pat
 ## Square Patterns
 
 1. [Code](Square%20Patterns/01-Pattern.cpp)
+
    ```bash
     * * * * *
     * * * * *
@@ -22,7 +23,9 @@ Visit the [website](https://vigneshvaranasi.github.io/Patterns/) to view the pat
     * * * * *
     * * * * *
     ```
+
 2. [Code](Square%20Patterns/02-Pattern.cpp)
+
    ```bash
     * * * * *
     *       *
@@ -30,6 +33,7 @@ Visit the [website](https://vigneshvaranasi.github.io/Patterns/) to view the pat
     *       *
     * * * * *
     ```
+
 ## Triangle Patterns
 
 ```bash
