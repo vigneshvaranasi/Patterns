@@ -2,15 +2,17 @@
 
 Welcome to the Patterns Repository! Here, you'll find a collection of various patterns to enhance your coding skills. Feel free to use these patterns for practice or incorporate them into your projects. 🚀
 
+Visit the [website](https://vigneshvaranasi.github.io/Patterns/) to view the patterns in action!
+
 ## Table of Contents 📜
 
-1. [Square Patterns](#square-patterns)
-2. [Triangle Patterns](#triangle-patterns)
-3. [Numeric Patterns](#numeric-patterns)
-4. [Alphabetic Patterns](#alphabetic-patterns)
-5. [Special Patterns](#special-patterns)
+1. [Square Patterns - 2](#square-patterns)
+2. [Triangle Patterns - 14](#triangle-patterns)
+3. [Numeric Patterns - 13](#numeric-patterns)
+4. [Alphabetic Patterns - 3](#alphabetic-patterns)
+5. [Special Patterns - 8](#special-patterns)
 
-## Square Patterns - 2
+## Square Patterns
 ```bash
 1.  
         * * * * *
@@ -28,7 +30,7 @@ Welcome to the Patterns Repository! Here, you'll find a collection of various pa
         * * * * *
 ```
 
-## Triangle Patterns - 14
+## Triangle Patterns
 
 ```bash
 1.  
@@ -161,7 +163,7 @@ Welcome to the Patterns Repository! Here, you'll find a collection of various pa
 
 ```
 
-## Numeric Patterns - 13
+## Numeric Patterns
 
 ```bash
 1.     1
@@ -277,7 +279,7 @@ Welcome to the Patterns Repository! Here, you'll find a collection of various pa
 
 ```
 
-## Alphabetic Patterns - 3
+## Alphabetic Patterns
 ```bash
 1.     E
        D E
@@ -288,10 +290,10 @@ Welcome to the Patterns Repository! Here, you'll find a collection of various pa
 ```
 ```bash
 2.     a
-       B c
-       D e F
-       g H i J
-       k L m N o
+       b c
+       d e f
+       g h i j
+       k l m n o
      
 ```
 ```bash
@@ -303,7 +305,7 @@ Welcome to the Patterns Repository! Here, you'll find a collection of various pa
 
 ```
 
-## Special Patterns - 8
+## Special Patterns
 
 ```bash
 1.  
@@ -393,12 +395,12 @@ Welcome to the Patterns Repository! Here, you'll find a collection of various pa
 
 1. **Clone the repository:**
     ```bash
-    git clone https://github.com/vigneshvaranasi/patterns
+    git clone https://github.com/vigneshvaranasi/Patterns.git
     ```
 
 2. **Navigate to the desired pattern folder:**
     ```bash
-    cd patterns/Square patterns
+    cd Patterns/Square Patterns
     ```
 
 3. **Open the file and explore the code.**
