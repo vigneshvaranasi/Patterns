@@ -118,11 +118,11 @@ Visit the [website](https://vigneshvaranasi.github.io/Patterns/) to view the pat
 9. [Code](Triangle%20Patterns/09-Pattern.cpp)
 
    ```bash
-     *   *   *   *   *
-       *   *   *   * 
-         *   *   *
-           *   * 
-             * 
+    * * * * *
+     * * * *
+      * * *
+       * *
+        *
      ```
 10. [Code](Triangle%20Patterns/10-Pattern.cpp)
 
