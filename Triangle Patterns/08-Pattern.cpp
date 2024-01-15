@@ -5,13 +5,12 @@ int main()
     int n;
     cout<<"Enter Number of Rows: ";
     cin>>n;
-    cout<<endl;
     int i,j,k;
-    for(i=1;i<=n;i++)
+    for(i=0;i<n;i++)
     {
-        for(j=1;j<=n-i;j++)
+        for(j=0;j<n-i;j++)
             cout<<" ";
-        for(k=1;k<=i;k++)
+        for(k=0;k<i+1;k++)
             cout<<"* ";
         cout<<endl;
     }
