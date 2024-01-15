@@ -36,24 +36,30 @@ Visit the [website](https://vigneshvaranasi.github.io/Patterns/) to view the pat
 
 ## Triangle Patterns
 
-```bash
-1.  
+1. [Code](Triangle%20Patterns/01-Pattern.cpp)
+
+   ```bash
     *
     * *
     * * *
     * * * * 
     * * * * *
-```
-```bash
-2.  
+    ```
+  
+2. [Code](Triangle%20Patterns/02-Pattern.cpp)
+
+   ```bash
     * * * * *
     * * * *
     * * * 
     * * 
     *
-```
-```bash
-3.  *
+    ```
+    
+3. [Code](Triangle%20Patterns/03-Pattern.cpp)
+
+   ```bash
+    *
     * * 
     * * *
     * * * *
@@ -62,24 +68,27 @@ Visit the [website](https://vigneshvaranasi.github.io/Patterns/) to view the pat
     * * * 
     * * 
     *
+    ```
 
-```
-```bash
-4.           *
+4. [Code](Triangle%20Patterns/04-Pattern.cpp)
+
+   ```bash
+             *
            * *
          * * *
        * * * *
      * * * * *
+    ```
+5. [Code](Triangle%20Patterns/05-Pattern.cpp)
 
-```
-```bash
-5.   * * * * *
+   ```bash
+     * * * * *
        * * * *
          * * *
            * *
              *
+    ```
 
-```
 ```bash
 6.          * 
           * * *
