@@ -189,7 +189,7 @@ Visit the [website](https://vigneshvaranasi.github.io/Patterns/) to view the pat
 
 ## Numeric Patterns
 
-1. [Code](Number%20Patterns/01-Pattern.cpp)
+1. [Code](Numeric%20Patterns/01-Pattern.cpp)
     ```bash
        1
        2  3
@@ -197,7 +197,7 @@ Visit the [website](https://vigneshvaranasi.github.io/Patterns/) to view the pat
        7  8  9  10
        11 12 13 14 15
     ```
-2. [Code](Number%20Patterns/02-Pattern.cpp)
+2. [Code](Numeric%20Patterns/02-Pattern.cpp)
     ```bash
        1
        0 1
@@ -205,7 +205,7 @@ Visit the [website](https://vigneshvaranasi.github.io/Patterns/) to view the pat
        0 1 0 1
        1 0 1 0 1
     ```
-3. [Code](Number%20Patterns/03-Pattern.cpp)
+3. [Code](Numeric%20Patterns/03-Pattern.cpp)
     ```bash
        1 2 3 4 5
        2 3 4 5
@@ -213,7 +213,7 @@ Visit the [website](https://vigneshvaranasi.github.io/Patterns/) to view the pat
        4 5
        5
     ```
-4. [Code](Number%20Patterns/04-Pattern.cpp)
+4. [Code](Numeric%20Patterns/04-Pattern.cpp)
     ```bash
        1 2 3 4 5
        1 2 3 4
@@ -221,7 +221,7 @@ Visit the [website](https://vigneshvaranasi.github.io/Patterns/) to view the pat
        1 2
        1
     ```
-5. [Code](Number%20Patterns/05-Pattern.cpp)
+5. [Code](Numeric%20Patterns/05-Pattern.cpp)
     ```bash
        1 2 3 4 5
          1 2 3 4
@@ -229,14 +229,14 @@ Visit the [website](https://vigneshvaranasi.github.io/Patterns/) to view the pat
              1 2
                1
     ```
-6. [Code](Number%20Patterns/06-Pattern.cpp)
+6. [Code](Numeric%20Patterns/06-Pattern.cpp)
     ```bash
        1             1
        1 2         2 1
        1 2 3     3 2 1
        1 2 3 4 4 3 2 1
     ```
-7. [Code](Number%20Patterns/07-Pattern.cpp)
+7. [Code](Numeric%20Patterns/07-Pattern.cpp)
     ```bash
        1 2 3 4 5
        2 3 4 5
@@ -248,7 +248,7 @@ Visit the [website](https://vigneshvaranasi.github.io/Patterns/) to view the pat
        2 3 4 5
        1 2 3 4 5
     ```
-8. [Code](Number%20Patterns/08-Pattern.cpp)
+8. [Code](Numeric%20Patterns/08-Pattern.cpp)
     ```bash
        1 2 3 4 5
        1 2 3 4
@@ -260,7 +260,7 @@ Visit the [website](https://vigneshvaranasi.github.io/Patterns/) to view the pat
        1 2 3 4
        1 2 3 4 5
     ```
-9. [Code](Number%20Patterns/09-Pattern.cpp)
+9. [Code](Numeric%20Patterns/09-Pattern.cpp)
     ```bash
               1
             1   1
@@ -268,7 +268,7 @@ Visit the [website](https://vigneshvaranasi.github.io/Patterns/) to view the pat
         1   3   3   1
       1   4   6   4   1
     ```
-10. [Code](Number%20Patterns/10-Pattern.cpp)
+10. [Code](Numeric%20Patterns/10-Pattern.cpp)
     ```bash
             1 
           2 1 2
@@ -278,7 +278,7 @@ Visit the [website](https://vigneshvaranasi.github.io/Patterns/) to view the pat
           2 1 2
             1 
     ```
-11. [Code](Number%20Patterns/11-Pattern.cpp)
+11. [Code](Numeric%20Patterns/11-Pattern.cpp)
     ```bash
       1 1 1 1 1 1
       2 2 2 2 2
@@ -287,14 +287,14 @@ Visit the [website](https://vigneshvaranasi.github.io/Patterns/) to view the pat
       5 5
       6
     ```
-12. [Code](Number%20Patterns/12-Pattern.cpp)
+12. [Code](Numeric%20Patterns/12-Pattern.cpp)
     ```bash
       1 2 3 4  17 18 19 20
         5 6 7  14 15 16
           8 9  12 13
             10 11
     ```
-13. [Code](Number%20Patterns/13-Pattern.cpp)
+13. [Code](Numeric%20Patterns/13-Pattern.cpp)
     ```bash
             1
           2 1 2
