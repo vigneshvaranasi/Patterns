@@ -367,9 +367,11 @@ Visit the [website](https://vigneshvaranasi.github.io/Patterns/) to view the pat
 
 3. [Code](Special%20Patterns/03-Pattern.cpp)
     ```bash
-           *      *
-         *   *  *   *
-       *      *      *
+        *         * 
+       * *       * * 
+      *   *     *   * 
+     *     *   *     * 
+    *       * *       * 
     ```
 4. [Code](Special%20Patterns/04-Pattern.cpp)
     ```bash
