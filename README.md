@@ -289,10 +289,12 @@ Visit the [website](https://vigneshvaranasi.github.io/Patterns/) to view the pat
     ```
 12. [Code](Numeric%20Patterns/12-Pattern.cpp)
     ```bash
-      1 2 3 4  17 18 19 20
-        5 6 7  14 15 16
-          8 9  12 13
-            10 11
+      1
+        2
+          3
+            4
+              5
+
     ```
 13. [Code](Numeric%20Patterns/13-Pattern.cpp)
     ```bash
